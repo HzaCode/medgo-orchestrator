@@ -1,6 +1,11 @@
-# MedGo Orchestrator
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+    <img alt="MedGo Orchestrator" src="assets/wordmark-light.svg" width="420">
+  </picture>
+</p>
 
-> Routes a clinical question to the right medical agents, in the right order, with safety first.
+<p align="center"><em>Routes a clinical question to the right medical agents, in the right order, with safety first.</em></p>
 
 MedGo Orchestrator coordinates a team of medical AI agents behind a single
 request: it recognizes the clinical intent, plans a task graph that pulls the
